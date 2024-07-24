@@ -1,1 +1,1 @@
-# Simple-Calculator
+A simple calculator to perform (+ - * /).
